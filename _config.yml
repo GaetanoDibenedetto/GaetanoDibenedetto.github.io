@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Gaetano Dibenedetto"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Gaetano Dibenedetto"
+description              : &description "Ph.D Student at University of Bari Aldo Moro"
 url                      : https://GaetanoDibenedetto.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GaetanoDibenedetto/GaetanoDibenedetto.github.io"
@@ -22,11 +22,11 @@ repository               : "GaetanoDibenedetto/GaetanoDibenedetto.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "_bio-photo.jpg"
   name             : "Gaetano Dibenedetto"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Barletta/Bari - Italy"
+  bio              : "Ph.D Student"
+  location         : #"Barletta/Bari - Italy"
   employer         : "University of Bari Aldo Moro"
   uri              : # URL
   email            : "gaetano.dibenedetto@uniba.it" 
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0001-6083-3600"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
