@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "About Me"
+title                    : "Gaetano Dibenedetto"
 title_separator          : "-"
 name                     : &name "Gaetano Dibenedetto"
 description              : &description "Ph.D Student at University of Bari Aldo Moro"
@@ -23,11 +23,11 @@ repository               : "GaetanoDibenedetto/GaetanoDibenedetto.github.io"
 author:
   # Biographic information
   avatar           : "myphoto.jpg"
-  name             : "Gaetano Dibenedetto"
+  name             : # "Gaetano Dibenedetto"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D Student"
   location         : #"Barletta/Bari - Italy"
-  employer         : "[University of Bari Aldo Moro](https://swap.di.uniba.it/)"
+  employer         : "University of Bari Aldo Moro"
   uri              : # URL
   email            : "gaetano.dibenedetto@uniba.it" 
 
