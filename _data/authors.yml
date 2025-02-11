@@ -5,8 +5,7 @@ Name Name:
   uri         : "http://name.com"
   email       : "gaetano.dibenedetto@uniba.it"
   bio         : "This is the first name."
-  avatar      : "_bio-photo
-  .jpg"
+  avatar      : "myphoto.jpg"
   twitter     : "name"
   google_plus : "Name"
 
