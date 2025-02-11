@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * Ph.D. Student in Computer Science And Mathematics, University of Bari Aldo Moro, October 2023 - Present
