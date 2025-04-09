@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Student in Computer Science And Mathematics, University of Bari Aldo Moro, October 2023 - Present
+* Ph.D. Candidate in Computer Science And Mathematics, University of Bari Aldo Moro, October 2023 - Present
 * M.S. in Computer Science, University of Bari Aldo Moro, October 2021 - July 2023
 * B.S. in Computer Science, University of Bari Aldo Moro, October 2018 - July 2021
 
