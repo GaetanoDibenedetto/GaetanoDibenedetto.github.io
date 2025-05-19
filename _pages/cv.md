@@ -38,6 +38,8 @@ Community Service
 
 * Umap25 - 33nd ACM Conference on User Modeling, Adaptation and Personalization
   * Program Committee - Full and Short Papers Track
+  * Program Committee - Workshop ExUM
+  * Program Committee - Late Breaking Results and Demo Papers Track
 
 * RecSys24 - 18th ACM Conference on Recommender Systems
   * Local Co-Chair
