@@ -1,11 +1,11 @@
 ---
 permalink: /
 author_profile: true
+title: "About Me"
 redirect_from: 
   - /about/
   - /about.html
 ---
-# About Me
 
 I am a Ph.D. Candidate in Artificial Intelligence at the Department of Computer Science, University of Bari Aldo Moro, Italy. My research focuses on leveraging Computer Vision techniques to enhance Health Recommender Systems, particularly through Human Pose Estimation and Explainable AI in digital healthcare.
 
