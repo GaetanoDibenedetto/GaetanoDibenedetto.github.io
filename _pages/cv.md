@@ -29,7 +29,7 @@ Visiting Experience
 
 **Visiting PhD Student (6 months)**  
 *Delft University of Technology (TU Delft)*  
-Faculty of Technology, Policy and Management – Multi-Actor Systems Group  
+Faculty of Technology, Policy and Management – Multi Actor Systems - System Engineering  
 **March 1, 2025 – August 31, 2025**
 
 Community Service
