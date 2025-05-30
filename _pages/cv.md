@@ -24,6 +24,13 @@ Publications
 * G. <ins>Dibenedetto</ins>, M. Andretta, E. Musacchio, M. Polignano, and G. Semeraro. **A Multimodal Approach for Symbiotic Recommender Systems.** ICITIES23, 2023 - [[Paper](https://icities23.unisa.it/papers/32.pdf)]
 * M. Andretta, G. <ins>Dibenedetto</ins>, M. Polignano, and G. Semeraro. **CREASY - CRoss-modality sEssion bAsed SYstem.** ICITIES23, 2023 - [[Paper](https://icities23.unisa.it/papers/31.pdf)]
 
+Visiting Experience
+======
+
+**Visiting PhD Student (6 months)**  
+*Delft University of Technology (TU Delft)*  
+Faculty of Technology, Policy and Management – Multi-Actor Systems Group  
+**March 1, 2025 – August 31, 2025**
 
 Community Service
 ======
@@ -36,7 +43,7 @@ Community Service
   * Program Committee - Full Papers
   * Program Committee - Short Papers
 
-* Umap25 - 33nd ACM Conference on User Modeling, Adaptation and Personalization
+* Umap25 - 33rd ACM Conference on User Modeling, Adaptation and Personalization
   * Program Committee - Full and Short Papers Track
   * Program Committee - Workshop ExUM
   * Program Committee - Late Breaking Results and Demo Papers Track
@@ -49,7 +56,7 @@ Community Service
   * Program Committee - Workshop HealthRecSys 
   * Student Volunteer
 
-* Umap24 - 32nd ACM Conference on User Modeling, Adaptation and Personalization
+* Umap24 - 32rd ACM Conference on User Modeling, Adaptation and Personalization
   * Program Committee - Full and Short Papers Track
   * Program Committee - Workshop ExUM
   * Program Committee - Late Breaking Results and Demo Papers Track
@@ -175,7 +182,7 @@ Projects in Master's and Bachelor's Courses
 
     date:  March 2020 - June 2020
     
-      Description: The goal of the project was to implement a chess game with an input made in algebraic notation, using GitHub and Git as tools, to collaborate with the team. A main goal was to apply the entire Software Engineering pipeline, fors example the code maintenance and automated testing phases.
+      Description: The goal of the project was to implement a chess game with an input made in algebraic notation, using GitHub and Git as tools, to collaborate with the team. A main goal was to apply the entire Software Engineering pipeline, for example the code maintenance and automated testing phases.
            
 
 * Programming course Project
