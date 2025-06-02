@@ -15,7 +15,7 @@ Education
 
 Publications
 ======
-*  G. <ins>Dibenedetto</ins>, E. Musacchio, M. Polignano, and P. Lops. **Fine-Tuning Large Multimodal Models for Fitness Action Quality Assessment**. In Adjunct Proceedings of the 33nd ACM Conference on User Modeling, Adaptation and Personalization, UMAP Adjunct 2025, New York City, USA, June 16-19, 2025 - [[Paper](https://github.com/GaetanoDibenedetto/UMAP25/blob/main/pdf/paper.pdf)] [[Code](https://github.com/GaetanoDibenedetto/UMAP25)]
+*  G. <ins>Dibenedetto</ins>, E. Musacchio, M. Polignano, and P. Lops. **Fine-Tuning Large Multimodal Models for Fitness Action Quality Assessment**. In Adjunct Proceedings of the 33rd ACM Conference on User Modeling, Adaptation and Personalization, UMAP Adjunct 2025, New York City, USA, June 16-19, 2025 - [[Paper](https://github.com/GaetanoDibenedetto/UMAP25/blob/main/pdf/paper.pdf)] [[Code](https://github.com/GaetanoDibenedetto/UMAP25)]
 * G. <ins>Dibenedetto</ins>, S. Sotiropoulos, M. Polignano, G. Cavallo, and P. Lops. **Comparing Human Pose Estimation through deep learning approaches: An overview.** Computer Vision and Image Understanding, 252:104297, 2025 - [[Paper](https://www.sciencedirect.com/science/article/pii/S1077314225000207)]
 * G. <ins>Dibenedetto</ins>. **Leveraging Human Pose Estimation to improve Health Recommender Systems.** In Proceedings of the AIxIA Doctoral Consortium 2024 co-located with the 23rd International Conference of the Italian Association for Artificial Intelligence (AIxIA 2024), 2024 - [[Paper](https://ceur-ws.org/Vol-3914/short72.pdf)]
 * G. <ins>Dibenedetto</ins>, M. Polignano, P. Lops, and G. Semeraro. **Prompting Large Language Models for Tailored Exercise Recommendations in Office Spaces.** In Proceedings of the 6th International Workshop on Health Recommender Systems co-located with 18th ACM Conference on Recommender Systems, Bari, Italy, October 14-18, 2024, 2024 - [[Paper](https://ceur-ws.org/Vol-3823/9_Dibenedetto_prompting_158.pdf)] [[Code](https://github.com/GaetanoDibenedetto/healthrecsys24)]
@@ -56,7 +56,7 @@ Community Service
   * Program Committee - Workshop HealthRecSys 
   * Student Volunteer
 
-* Umap24 - 32rd ACM Conference on User Modeling, Adaptation and Personalization
+* Umap24 - 32nd ACM Conference on User Modeling, Adaptation and Personalization
   * Program Committee - Full and Short Papers Track
   * Program Committee - Workshop ExUM
   * Program Committee - Late Breaking Results and Demo Papers Track
