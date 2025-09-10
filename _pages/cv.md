@@ -15,6 +15,7 @@ Education
 
 Publications
 ======
+* G. <ins>Dibenedetto</ins>, P. Lops, M. Polignano, and H. Torkamaan. **Lift It Up Right: A Recommender System for Safer Lifting Postures**. In Proceedings of the Nineteenth ACM Conference on Recommender Systems, RecSys ’25, Prague, Czech Republic, September 22–26, 2025 -  [[Paper](https://github.com/GaetanoDibenedetto/recsys25/blob/main/pdf/paper.pdf)] [[Code](https://github.com/GaetanoDibenedetto/recsys25)]
 *  G. <ins>Dibenedetto</ins>, E. Musacchio, M. Polignano, and P. Lops. **Fine-Tuning Large Multimodal Models for Fitness Action Quality Assessment**. In Adjunct Proceedings of the 33rd ACM Conference on User Modeling, Adaptation and Personalization, UMAP Adjunct 2025, New York City, USA, June 16-19, 2025 - [[Paper](https://github.com/GaetanoDibenedetto/UMAP25/blob/main/pdf/paper.pdf)] [[Code](https://github.com/GaetanoDibenedetto/UMAP25)]
 * G. <ins>Dibenedetto</ins>, S. Sotiropoulos, M. Polignano, G. Cavallo, and P. Lops. **Comparing Human Pose Estimation through deep learning approaches: An overview.** Computer Vision and Image Understanding, 252:104297, 2025 - [[Paper](https://www.sciencedirect.com/science/article/pii/S1077314225000207)]
 * G. <ins>Dibenedetto</ins>. **Leveraging Human Pose Estimation to improve Health Recommender Systems.** In Proceedings of the AIxIA Doctoral Consortium 2024 co-located with the 23rd International Conference of the Italian Association for Artificial Intelligence (AIxIA 2024), 2024 - [[Paper](https://ceur-ws.org/Vol-3914/short72.pdf)]
