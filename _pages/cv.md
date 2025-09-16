@@ -9,9 +9,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Candidate in Computer Science And Mathematics, University of Bari Aldo Moro, October 2023 - Present
-* M.S. in Computer Science, University of Bari Aldo Moro, October 2021 - July 2023
-* B.S. in Computer Science, University of Bari Aldo Moro, October 2018 - July 2021
+* Ph.D. Candidate in Computer Science And Mathematics, University of Bari Aldo Moro, October 2023 – Present
+* M.S. in Computer Science, University of Bari Aldo Moro, October 2021 – July 2023
+* B.S. in Computer Science, University of Bari Aldo Moro, October 2018 – July 2021
+
+Experiences Abroad
+======
+* Visiting Ph.D. Researcher, Delft University of Technology (TU Delft), March 2025 – August 2025
 
 Publications
 ======
