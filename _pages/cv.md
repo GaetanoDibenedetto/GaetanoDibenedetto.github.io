@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Candidate in Computer Science and Mathematics, University of Bari Aldo Moro, October 2023 – Present
+* Ph.D. Student in Computer Science and Mathematics, University of Bari Aldo Moro, October 2023 – Present
 * M.S. in Computer Science, University of Bari Aldo Moro, October 2021 – July 2023
 * B.S. in Computer Science, University of Bari Aldo Moro, October 2018 – July 2021
 
@@ -53,6 +53,7 @@ Community Service
   * Program Committee - Full and Short Papers Track
   * Program Committee - Workshop ExUM
   * Program Committee - Late Breaking Results and Demo Papers Track
+  * Student Volunteer
 
 * RecSys24 - 18th ACM Conference on Recommender Systems
   * Local Co-Chair
@@ -83,119 +84,68 @@ Grants
 
 Projects in Master's and Bachelor's Courses
 ======
-* Master's Thesis Project
+### Multimodal Recommender Systems
+*Master's Thesis Project (February 2023 - July 2023)*
 
-    date: February 2023 - July 2023
+In recent years, the growth of e-commerce and online platforms has increased the availability of information and options for consumers. Recommender systems have emerged as a powerful tool to help users find the most relevant products or services based on their historical preferences or behaviors. Indeed, recommender systems have become an integral part of our daily lives by suggesting personalized recommendations for various products and services. Moreover, the tourism industry has the potential to utilize this proficiency in order to enhance tourists' overall journey through tailoring recommendations that specifically address their personal preferences. With the increasing volume of data generated every day, the accuracy and efficiency of these systems have become more critical than ever.
+The purpose of this study was to explore the potential of multimodal recommender systems that leverage multiple types of data to improve recommendation accuracy. The model chosen to perform the experiments is the CLIP model. The findings of this study demonstrate that incorporating visual information significantly enhances the performance of the recommender system.
 
-    Title: Multimodal Recommender Systems
+### Anomaly prediction in cryptocurrencies market data
+*Big Data Project (February 2023 - June 2023)*
 
-      Description: In recent years, the growth of e-commerce and online platforms has increased the availability of information and options for consumers. %With this abundance of choice, it can become challenging for users to navigate through the sea of options and find products or services that fit their preferences. 
-      Recommender systems have emerged as a powerful tool to help users find the most relevant products or services based on their historical preferences or behaviors. 
-      Indeed, recommender systems have become an integral part of our daily lives by suggesting personalized recommendations for various products and services. Moreover, the tourism industry has the potential to utilize this proficiency in order to enhance tourists' overall journey through tailoring recommendations that specifically address their personal preferences. With the increasing volume of data generated every day, the accuracy and efficiency of these systems have become more critical than ever. 
-      The purpose of this study was to explore the potential of multimodal recommender systems that leverage multiple types of data to improve recommendation accuracy. The model chosen to perform the experiments is the CLIP model. The findings of this study demonstrate that incorporating visual information significantly enhances the performance of the recommender system.
-       
+Application of the CRISP-DM methodology for anomaly detection, where an anomaly was defined as a fluctuation of 1% (both positive and negative) compared to the previous hour's price in Cryptocurrencies. After selecting the Yahoo Finance dataset, an LSTM (long-short term memory) model that works with a stream of data (hourly crypto prices) was used for anomaly detection. To achieve this goal, the entire CRISP-DM pipeline was applied, including business understanding, data understanding, and phases of data preparation such as scaling, clustering, feature selection, data cleaning, data conversion, and aggregating. Once the data was preprocessed and clusters were created, the modeling phase carried out using a LSTM model. The model was applied separately on each cluster composed of cryptocurrencies to predict whether or not the input time period is abnormal over all cryptos within individual anomaly on clusters. Finally, a model evaluation phase was conducted, analyzing F-1 score, Accuracy, Precision, and Recall values to verify its effectiveness.
 
-* Big Data Project
+### Glass Detection for Software Engineering
+*Software Engineering for AI Project (October 2022 - January 2023)*
 
-    date: February 2023 - June 2023
+The goal of the project was to launch an ML model on a server, which used a CNN of mine already pretrained (glass-dect), for the detection of glasses on people's faces, applying the entire Software Engineering pipeline. For AI enabled systems, therefore integrating, in addition to the classic code maintenance phases, also phases for the validation and maintenance of the ML model and of the data used for its training.
 
-    Title: Anomaly prediction in cryptocurrencies market data
+### Glass Detection for Machine Learning
+*Machine Learning Project (March 2022 - July 2022)*
 
-      Description: Application of the CRISP-DM methodology for anomaly detection, where an anomaly was defined as a fluctuation of 1\% (both positive and negative) compared to the previous hour's price in Cryptocurrencies. After selecting the Yahoo Finance dataset, an LSTM (long-short term memory) model that works with a stream of data (hourly crypto prices) was used for anomaly detection. To achieve this goal, the entire CRISP-DM pipeline was applied, including business understanding, data understanding, and phases of data preparation such as scaling, clustering, feature selection, data cleaning, data conversion,and aggregating. Once the data was preprocessed and clusters were created, the modeling phase carried out using a LSTM model. The model was applied separately on each cluster composed of cryptocurrencies to predict whether or not the input time period is abnormal over all cryptos within individual anomaly on clusters. Finally, a model evaluation phase was conducted, analyzing F-1 score, Accuracy, Precision, and Recall values to verify its effectiveness.
+Starting from the Computer Vision project (see project below), it was decided to analyze and confirm the validity of the proposed model, comparing the performance of our model with some state-of-the-art models such as: VGG, MobileNet, as well as a shallow version of VGG, created by me, starting from the original architecture, which would use a number of trainable parameters similar to our model (about 1 million). For the comparison, in addition to the dataset used for the training of the model, 2 other datasets were selected, having similar characteristics to the one used for the training. Finally, a statistical test (Student's t-test) was performed which allowed the results to be validated also from a statistical point of view.
 
-* Software Engineering for AI Project
+### Glass Detection for Computer Vision
+*Computer Vision Project (March 2022 - June 2022)*
 
-    date: October 2022 - January 2023
+The goal of the project was to create a CNN (convolutional neural network) called Glass-dect, which could recognize the presence of glasses (both eyeglasses and sunglasses) on a person's face. The interesting feature of the model is that it was trained and tested on a dataset of selfies. This factor complicated the training phase, as selfies are characterized by a spontaneous nature and therefore by a great variety. The use of this type of dataset was chosen to meet the network's objective of being able to be used on mobile devices, during the facial authentication phase, where problems of non-recognition of the subject may occur, due to the fact that the subject is wearing glasses. Furthermore, the characteristic of wanting to use the model on mobile devices, which in themselves have a modest computational capacity, has set a further objective of making the model as light as possible (1 < million parameters). Finally, in order to try to improve the classification performance, it was decided to adopt an ensemble technique, by training 5 CNNs (all with the same architecture) but each with a different pre-processed version of the input data. To perform the classifications of the test samples, a majority vote was performed, based on the independent predictions of each individual CNN. This idea was "borrowed" from considering the union of many "weak learners" to improve performance, as is done in the AdaBoost algorithm.
 
-    Title: Glass Detection for Software Engineering Project
+### Smart Home with Prolog and Python
+*Fundamental of Artificial Intelligence Project (July 2022 - September 2022)*
 
-      Description: The goal of the project was to launch an ML model on a server, which used a CNN of mine already pretrained (glass-dect), for the detection of glasses on people's faces, applying the entire Software Engineering pipeline. For AI enabled systems, therefore integrating, in addition to the classic code maintenance phases, also phases for the validation and maintenance of the ML model and of the data used for its training.
-           
+The goal of the project was to create a "smart environment" using Prolog and Python. The system was equipped with a graphical interface that allowed the user to create "preferences" based on their needs. An example could be the "night" mode, which once activated, by reading the values of both internal and external sensors present in the smart environment, regulated the actuators to satisfy the user's preferences.
 
-* Machine Learning Project
+### Sentiment Analysis
+*Natural Language Processing Project (March 2022 - July 2022)*
 
-  date: March 2022 - July 2022
-  
-  Title: Glass Detection for Machine Learning
+The goal was to apply the main methods of NLP (natural language processing) to complete a challenge regarding sentiment analysis, if possible using innovative techniques. To complete the challenge, have been used LSTM, CNN and Transformers, as well as the classic text pre-processing phases.
 
-      Description: Starting from the Computer Vision project (see project below), it was decided to analyze and confirm the validity of the proposed model, comparing the performance of our model with some state-of-the-art models such as: VGG, MobileNet, as well as a shallow version of VGG, created by me, starting from the original architecture, which would use a number of trainable parameters similar to our model (about 1 million). For the comparison, in addition to the dataset used for the training of the model, 2 other datasets were selected, having similar characteristics to the one used for the training. Finally, a statistical test (Student's t-test) was performed which allowed the results to be validated also from a statistical point of view.
-                 
+### Dibenedetto's Interpreter
+*Formal Methods Project (January 2022 - March 2022)*
 
-* Computer Vision Project
+The goal was to create an interpreter called DIBInt, using the functional language Haskell. To create DIBInt, it was first necessary to define a grammar for the language, after which the Parser was developed to analyze the textual input in order to then be able to execute the program, finally, functionalities and syntax were implemented, starting from the grammar of the interpreter.
 
-  date: March 2022 - June 2022
+### Object-relational Database
+*Database Systems Project (January 2022 - March 2022)*
 
-  Title: Glass Detection for Computer Vision
-            
-      Description: The goal of the project was to create a CNN (convolutional neural network) called Glass-dect, which could recognize the presence of glasses (both eyeglasses and sunglasses) on a person's face. The interesting feature of the model is that it was trained and tested on a dataset of selfies. This factor complicated the training phase, as selfies are characterized by a spontaneous nature and therefore by a great variety. The use of this type of dataset was chosen to meet the network's objective of being able to be used on mobile devices, during the facial authentication phase, where problems of non-recognition of the subject may occur, due to the fact that the subject is wearing glasses. Furthermore, the characteristic of wanting to use the model on mobile devices, which in themselves have a modest computational capacity, has set a further objective of making the model as light as possible (1 < million parameters). Finally, in order to try to improve the classification performance, it was decided to adopt an ensemble technique, by training 5 CNNs (all with the same architecture) but each with a different pre-processed version of the input data. To perform the classifications of the test samples, a majority vote was performed, based on the independent predictions of each individual CNN. This idea was "borrowed" from considering the union of many "weak learners" to improve performance, as is done in the AdaBoost algorithm.
-              
+The goal of the project was to create an object-relational database for computer management. To do this, the entire pipeline required for the design of relational databases was followed, implementing the final work in Oracle. The "physical design" phase was then carried out to improve the performance of the system based on the most frequent queries, as well as the logical implementation of a Data Warehouse (DW).
 
-* Fundamental of Artificial Intelligence Project
+### Medical Diagnosis Based on Techniques of Reinforcement Learning
+*Bachelor’s Thesis Project (March 2021 - July 2021)*
 
-  date: July 2022 - September 2022
-  
-  Title: Smart Home with Prolog and Python
-      
-      Description: The goal of the project was to create a "smart environment" using Prolog and Python. The system was equipped with a graphical interface that allowed the user to create "preferences" based on their needs. An example could be the "night" mode, which once activated, by reading the values of both internal and external sensors present in the smart environment, regulated the actuators to satisfy the user's preferences.
-                   
+The objective of the project was to develop a system capable of identifying diseases based on given symptoms, mimicking a doctor's initial assessment. This system was built using Java, with a focus on implementing Reinforcement Learning algorithm from scratch, particularly QLearning. Lucene was employed to streamline the storage of scores during the training phase.
 
-* Natural Language Processing Project
+### Regression Tree Algorithm
+*Advanced Programming Methods Project (September 2020 - November 2020)*
 
-  date: March 2022 - July 2022
+The goal of the project was to implement an algorithm that would predict the value of a numerical attribute associated with an example, based on the values observed for other attributes, part of the same example, using a regression tree. The Regression Tree software was developed in Java and allows the use of the algorithm for learning regression functions from a tree, starting from a set of examples extracted from a MySQL database. Furthermore, an extension was created consisting of a graphical interface based on the JavaFX library.
 
-  Title: Sentiment Analysis
+### Chess Game
+*Software Engineering Project (March 2020 - June 2020)*
 
-      Description: The goal was to apply the main methods of NLP (natural language processing) to complete a challenge regarding sentiment analysis, if possible using innovative techniques. To complete the challenge, have been used LSTM, CNN and Transformers, as well as the classic text pre-processing phases.
-           
+The goal of the project was to implement a chess game with an input made in algebraic notation, using GitHub and Git as tools, to collaborate with the team. A main goal was to apply the entire Software Engineering pipeline, for example the code maintenance and automated testing phases.
 
-* Formal Methods Project
+### Connect 4 in C
+*Programming course Project (November 2018 - January 2019)*
 
-  date: January 2022 - March 2022
-  
-  Title: Dibenedetto's Interpreter
-      
-      Description: The goal was to create an interpreter called DIBInt, using the functional language Haskell. To create DIBInt, it was first necessary to define a grammar for the language, after which the Parser was developed to analyze the textual input in order to then be able to execute the program, finally, functionalities and syntax were implemented, starting from the grammar of the interpreter.
-                
-
-* Database Systems Project
-
-    date: January 2022 - March 2022
-    
-    Title: Object-relational Database
-
-
-      Description: The goal of the project was to create an object-relational database for computer management. To do this, the entire pipeline required for the design of relational databases was followed, implementing the final work in Oracle. The "physical design" phase was then carried out to improve the performance of the system based on the most frequent queries, as well as the logical implementation of a Data Warehouse (DW).
-                
-
-* Bachelor’s Thesis Project
-
-  date: March 2021 - July 2021
-  
-  Title: Medical Diagnosis Based on Techniques of Reinforcement Learning
-  
-  
-      Description: The objective of the project was to develop a system capable of identifying diseases based on given symptoms, mimicking a doctor's initial assessment. This system was built using Java, with a focus on implementing Reinforcement Learning algorithm from scratch, particularly QLearning. Lucene was employed to streamline the storage of scores during the training phase.
-               
-
-* Advanced Programming Methods Project
-
-    date: September 2020 - November 2020
-
-      Description: The goal of the project was to implement an algorithm that would predict the value of a numerical attribute associated with an example, based on the values observed for other attributes, part of the same example, using a regression tree. The Regression Tree software was developed in Java and allows the use of the algorithm for learning regression functions from a tree, starting from a set of examples extracted from a MySQL database. Furthermore, an extension was created consisting of a graphical interface based on the JavaFX library.
-           
-
-* Software Engineering Project
-
-    date:  March 2020 - June 2020
-    
-      Description: The goal of the project was to implement a chess game with an input made in algebraic notation, using GitHub and Git as tools, to collaborate with the team. A main goal was to apply the entire Software Engineering pipeline, for example the code maintenance and automated testing phases.
-           
-
-* Programming course Project
-
-  date: November 2018 - January 2019
-  
-  Title: Connect 4 in C
-    
-      Description: The goal of the project was to create the game \textit{Connect 4}, using the \textit{C} programming language.
-                  
+The goal of the project was to create the game *Connect 4*, using the *C* programming language.
