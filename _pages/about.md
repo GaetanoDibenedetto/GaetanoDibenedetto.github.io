@@ -2,7 +2,7 @@
 permalink: /
 author_profile: true
 seo_title: "Gaetano Dibenedetto"
-description: "Gaetano Dibenedetto is a Ph.D. Student in Artificial Intelligence at University of Bari, specializing in Recommender Systems, Computer Vision, and Human Pose Estimation."
+description: "Gaetano Dibenedetto is a Ph.D. Student in Artificial Intelligence at University of Bari, specializing in Health Recommender Systems, Computer Vision, and Human Pose Estimation."
 title: "About Me"
 redirect_from: 
   - /about/
