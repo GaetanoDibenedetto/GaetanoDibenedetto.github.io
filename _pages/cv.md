@@ -9,13 +9,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Candidate in Computer Science And Mathematics, University of Bari Aldo Moro, October 2023 – Present
+* Ph.D. Candidate in Computer Science and Mathematics, University of Bari Aldo Moro, October 2023 – Present
 * M.S. in Computer Science, University of Bari Aldo Moro, October 2021 – July 2023
 * B.S. in Computer Science, University of Bari Aldo Moro, October 2018 – July 2021
 
-Experiences Abroad
-======
-* Visiting Ph.D. Researcher, Delft University of Technology (TU Delft), March 2025 – August 2025
 
 Publications
 ======
@@ -40,9 +37,13 @@ Faculty of Technology, Policy and Management – Multi Actor Systems - System En
 Community Service
 ======
 * Journals Peer review
+  * [Journal of Sports Sciences](https://publons.com/wos-op/review/author/KdcQ6pyP/). 2025
   * User Modeling and User-Adapted Interaction. 2025
   * [Review activity for IEEE intelligent systems](https://publons.com/wos-op/review/author/vE7kyeSh/). 2024
   * Review activity for International journal of human-computer studies. 2024
+
+* WWW2026 - ACM Web Conference 
+  * Program Committee
 
 * RecSys25 - 19th ACM Conference on Recommender Systems
   * Program Committee - Full Papers
